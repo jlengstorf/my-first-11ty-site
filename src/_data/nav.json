@@ -16,6 +16,10 @@
     "label": "Characters"
   },
   {
+    "path": "/episodes/",
+    "label": "Episodes"
+  },
+  {
     "path": "https://twitter.com/jlengstorf",
     "label": "Twitter"
   }
