@@ -1,0 +1,25 @@
+{
+  "name": "my-first-11ty-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy --input=src",
+    "dev": "eleventy --input=src --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlengstorf/my-first-11ty-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlengstorf/my-first-11ty-site/issues"
+  },
+  "homepage": "https://github.com/jlengstorf/my-first-11ty-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
