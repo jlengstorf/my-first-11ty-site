@@ -32,10 +32,16 @@
         margin: 0 0 0 1rem;
       }
 
-      main {
+      main,
+      footer {
         margin: 4rem auto;
         max-width: 60ch;
         width: 90vw;
+      }
+
+      footer {
+        margin-bottom: 1rem;
+        text-align: center;
       }
     </style>
   </head>
@@ -51,5 +57,7 @@
     <main>
       {{ content }}
     </main>
+
+    <footer>What a great site!</footer>
   </body>
 </html>
