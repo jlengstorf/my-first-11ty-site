@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "label": "Home"
+  },
+  {
+    "path": "/about/",
+    "label": "About"
+  },
+  {
+    "path": "/contact/",
+    "label": "Contact"
+  },
+  {
+    "path": "/characters/",
+    "label": "Characters"
+  },
+  {
+    "path": "https://twitter.com/jlengstorf",
+    "label": "Twitter"
+  }
+]

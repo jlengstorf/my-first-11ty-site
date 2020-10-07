@@ -43,9 +43,9 @@
     <header>
       <a href="/" rel="home">My 11ty Site</a>
       <nav>
-        <a href="/">Home</a>
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
+        {% for item in nav %}
+        <a href="{{ item.path }}">{{ item.label }}</a>
+        {% endfor %}
       </nav>
     </header>
     <main>

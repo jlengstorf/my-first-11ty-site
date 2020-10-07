@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jlengstorf/my-first-11ty-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "node-fetch": "^2.6.1"
   }
 }
